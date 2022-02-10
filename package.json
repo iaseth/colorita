@@ -1,0 +1,27 @@
+{
+  "name": "colorita",
+  "version": "0.1.0",
+  "description": "Color-related utility functions.",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iaseth/colorita.git"
+  },
+  "keywords": [
+    "color",
+    "css",
+    "rgb",
+    "hsl",
+    "hex"
+  ],
+  "author": "Ankur Seth",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iaseth/colorita/issues"
+  },
+  "homepage": "https://github.com/iaseth/colorita#readme"
+}
